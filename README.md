@@ -1,7 +1,8 @@
-# TACTSUIT BLADE & SORCERY INTEGRATION
+# WIP CONVERSION OF Shizof's BHaptics integration to OWO
+ 
 
 
-* MOD LINK: 1.0: https://www.nexusmods.com/bladeandsorcery/mods/2301
+
 
 Remove the older one instead of overwriting it if you are updating from the previous version.
 
